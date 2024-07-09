@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "168400379388",
+    "project_id": "tweetgits-11233",
+    "storage_bucket": "tweetgits-11233.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168400379388:android:f892762fdd7a0e92052679",
+        "android_client_info": {
+          "package_name": "com.example.apptweetgits"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168400379388-ip6c1coq2gk2sovbahsqbt8l9htfth8i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.apptweetgits",
+            "certificate_hash": "ec8a49ed9cfbd8af2bc8d76aa48b784470ed0a80"
+          }
+        },
+        {
+          "client_id": "168400379388-23b5560bvrcgqa5cr63i8tkr0pc50mks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANhnfC0f1jt90ZocyaAysPF4ogw8Rd4Dc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168400379388-23b5560bvrcgqa5cr63i8tkr0pc50mks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
