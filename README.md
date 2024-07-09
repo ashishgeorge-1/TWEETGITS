@@ -35,21 +35,24 @@ A sleek, full-stack social media application built exclusively for Saintgits Col
 ### Installation
 
 1. Clone the repository
+
    ```sh
    git clone https://github.com/your-username/tweetgits.git
    cd tweetgits
 
 2. Install dependencies
+
    ```sh
    flutter pub get
 
-3. Set up Firebase
+3. **Set up Firebase**
 
-  Create a new Firebase project
-  Add your Android and iOS apps to the project
-  Download and add the necessary configuration files
+  - Create a new Firebase project
+  - Add your Android and iOS apps to the project
+  - Download and add the necessary configuration files
 
 4. Run the app
+
    ```sh
    flutter run
 
